@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/art/Documents/Miscallenous/c#/poker/poker.csproj": {}
+  },
+  "projects": {
+    "/home/art/Documents/Miscallenous/c#/poker/poker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/art/Documents/Miscallenous/c#/poker/poker.csproj",
+        "projectName": "poker",
+        "projectPath": "/home/art/Documents/Miscallenous/c#/poker/poker.csproj",
+        "packagesPath": "/home/art/.nuget/packages/",
+        "outputPath": "/home/art/Documents/Miscallenous/c#/poker/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/art/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Discord.net": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "HandEvaluator": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Json.net": {
+              "target": "Package",
+              "version": "[1.0.23, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

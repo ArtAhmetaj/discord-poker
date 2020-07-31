@@ -1,0 +1,6 @@
+1. factory class per game  // done 
+2.Factory Class me kthy result  // not done 
+3. Logic per kur ka me ja nis loja edhe kur smujne me join njerz
+4. DM letrat personave 
+5.Fold fails
+6. you do not have enough cash man ( i have no fucking clue)
